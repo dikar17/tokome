@@ -1,0 +1,9 @@
+tokoku dengan ci 4.1.1 bootstrap 4.0.0
+
+1.buat migration
+2.upload ke github dengan
+  2.1. login github->create new project->masukkan nama file-> centang bagian tambahkan readme
+  2.2. ketik "git init"(tanpa kutip) diterminal vscode atau gitbash pada folder project
+  2.3. ketik "git add ."(tanpa kutip) untuk mengupload project ke github
+  2.3. ketik (git commit -m "First Push")(tanpa kurung) untuk membuat push pertama dengan nama "First Push"(nama bisa bebas)
+  2.4. ketik ""
